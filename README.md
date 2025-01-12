@@ -1,5 +1,5 @@
 # Mood Parachute - a simple, mindful, and engaging journal app
-Authors: Yutong Zhan, Jiayi Wen
+Authors: Dana Zhan, Jiayi Wen
 
 Demo Link: https://www.youtube.com/watch?v=VaaGVgqap8g&t=69s
 ## Functionality Updates in Iteration 3:
